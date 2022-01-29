@@ -1,4 +1,9 @@
-# ecclesiastical-chants
+<p align="center">
+  <img src="https://github.com/BallsyWalnuts/ecclesiastical-chants/blob/8254b57236f61c1374252baab5eb9bea72e638a3/illuminated-chant.jpg" width="300" />
+</p>
+
+# Ecclesiastical Chants
+
 Various liturgical resources set in Gregorian Chant notation.
 
 ## Overview
@@ -25,6 +30,10 @@ styling for Gregorian Chant Engraving. This makes the whole project possible.
 - [Illuminare Score Editor](https://editor.sourceandsummit.com/legacy/): online
 tool for converting the gabc files to PDFs of engraved Gregorian Chant. This is
 really helpful if you don't know how to use TeX.
+- [gabc-prepper](https://github.com/BallsyWalnuts/gabc-prepper): a tool that I
+created to help take some of the work out of turning blocks of text into .gabc
+files. It will add a lot of the tone place-holders that you need to a block of
+text, and all you need to do is then review it and make any changes you want.
 
 ## Current State
 I haven't gotten around to teaching myself TeX, so all I do currently is use
