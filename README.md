@@ -3,6 +3,7 @@
 </p>
 
 # Ecclesiastical Chants
+
 Various liturgical resources set in Gregorian Chant notation.
 
 ## Overview
